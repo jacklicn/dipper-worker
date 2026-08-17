@@ -1,0 +1,8 @@
+{
+  "id": "pack.example.echo",
+  "kind": "tool-pack",
+  "version": 1,
+  "packId": "example-echo",
+  "entry": "index.js",
+  "description": "Sample external tool pack — copy into <workspace>/plugins/echo-pack"
+}
